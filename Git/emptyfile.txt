@@ -4,5 +4,5 @@ now this file is use to test git commit
 
 
 
->>>> this is working code 
-<<< ye chalega 
+>>>> this is working code, but i put fir se gadbad in this code 
+<<< ye ye fir se nahi chalega 
